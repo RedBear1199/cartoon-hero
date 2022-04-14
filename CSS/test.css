@@ -1,0 +1,23 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1{
+		font: 30px;
+		color: teal;
+	}
+	h2{
+		font: 30px;
+		color: hotpink;
+	}
+
+	.huge{
+		font: 80px;
+	}
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+
+	.big.uppercase{
+		color: navy;
+	}
